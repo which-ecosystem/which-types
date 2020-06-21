@@ -1,11 +1,12 @@
 {
   "name": "which-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "publish": "npm publish --access public"
   },
   "files": [
-    "types"
+    "types",
+    "index.ts"
   ],
   "author": "",
   "license": "ISC"
