@@ -1,0 +1,12 @@
+{
+  "name": "@which-ecosystem/which-types",
+  "version": "1.0.0",
+  "scripts": {
+    "publish": "npm publish --public"
+  },
+  "files": [
+    "types"
+  ],
+  "author": "",
+  "license": "ISC"
+}
