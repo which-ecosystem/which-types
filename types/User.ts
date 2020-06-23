@@ -1,8 +1,8 @@
-import Base from './Base';
+import { Base } from './Base';
 
 export type Gender = 'male' | 'female';
 
-export default interface User extends Base {
+export interface User extends Base {
   username: string;
   avatarUrl?: string;
   location?: string;

@@ -1,4 +1,4 @@
-export { default as User, Gender } from './types/User';
-export { default as Poll, ImageData } from './types/Poll';
-export { default as Which } from './types/Which';
+export * from './types/User';
+export * from './types/Poll';
+export * from './types/Which';
 

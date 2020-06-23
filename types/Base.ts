@@ -1,4 +1,4 @@
-export default interface Base {
+export interface Base {
   _id: string;
   createdAt: Date;
 }
