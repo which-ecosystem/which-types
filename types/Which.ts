@@ -1,1 +1,1 @@
-export default type Which = 'left' | 'right';
+export default Which = 'left' | 'right';
