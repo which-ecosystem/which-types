@@ -6,6 +6,7 @@ export default interface User extends Base {
   username: string;
   avatarUrl?: string;
   location?: string;
+  email: string;
   dateOfBirth?: Date;
   gender?: Gender;
 }
