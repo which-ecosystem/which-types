@@ -7,6 +7,6 @@ export default interface User extends Base {
   avatarUrl?: string;
   location?: string;
   dateOfBirth?: Date;
-  gender?: 'male' | 'female';
+  gender?: Gender;
 }
 
