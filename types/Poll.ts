@@ -1,5 +1,6 @@
 import { Base } from './Base';
 import { User } from './User';
+import { Which } from './User';
 
 export interface ImageData {
   url: string;
@@ -12,5 +13,6 @@ export interface Poll extends Base {
     left: ImageData;
     right: ImageData;
   };
+  userChoice?: Which;
 }
 
