@@ -1,6 +1,6 @@
 import { Base } from './Base';
 import { User } from './User';
-import { Which } from './User';
+import { Which } from './Which';
 
 export interface ImageData {
   url: string;
