@@ -1,6 +1,6 @@
 {
   "name": "which-types",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "files": [
     "types",
     "index.ts"
