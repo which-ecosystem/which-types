@@ -14,5 +14,6 @@ export interface Poll extends Base {
     right: ImageData;
   };
   vote?: Vote;
+  description?: string;
 }
 
